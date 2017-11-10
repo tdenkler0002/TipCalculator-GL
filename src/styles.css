@@ -1,1 +1,59 @@
 /* You can add global styles to this file, and also import other style files */
+
+.body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bill-btn {
+  margin-left: 10px;
+  background-color: #F7B773;
+  border: 0;
+}
+
+.bill-display {
+  background-color: #fcfcfc;
+  padding: 20px;
+  margin: 25px;
+}
+
+.bill-btn:hover {
+  background-color: #ffa94f;
+}
+
+.tip-display {
+  display: inline;
+}
+
+.tip-container {
+  background-color: #F7B773;
+  padding: 20px;
+  margin: 30px;
+}
+
+.tip-display {
+  display: inline-flex;
+}
+
+.title-header {
+  background-color: #4ABDAC;
+  color: #fff;
+  padding: 30px;
+  margin-bottom: 15px;
+}
+
+.tip-btn {
+  background-color: #FC4A1A;
+  border: 0;
+  margin: 20px;
+}
+
+.tip-btn:hover {
+  background-color: #e5390b;
+}
+
+
+.total-bill > h1 {
+  font-size: 80px;
+  font-weight: 600;
+  margin: 5px, 30px;
+}
